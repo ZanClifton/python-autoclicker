@@ -1,10 +1,10 @@
-<img src="https://github.com/ZanClifton/python-autoclicker/blob/main/images/mouse.png" width=250px align=right alt="Mouse Ascii Art"/>
+<img src="https://github.com/ZanClifton/python-autoclicker/blob/main/images/mouse.png" width=175px align=right alt="Mouse Ascii Art"/>
 
 # Python Autoclicker
 
 [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) is a game I love, but I don't love the constant elevated risk of carpal tunnel syndrome from all the clicking!
 
-I wanted to install an autoclicker to, um... 'optimise my efficiency' (ahem) but I also wanted to understand exactly what it was doing. Plus I'm running Ubuntu and I wasn't sure where to find an autoclicker that was reliable and safe. So I pulled on my big coder pants and had a go (with a little help from [GitHub Copilot](https://github.com/features/copilot/) for the first - and possibly the last until I'm a lot more experienced - time).
+I wanted to install an autoclicker to, um... 'optimise my efficiency' (ahem) but I also wanted to understand exactly what it was doing. Plus I'm running Ubuntu and I wasn't sure where to find an autoclicker that was reliable and safe. So I pulled on my big coder pants and had a go.
 
 ## Run the Autoclicker Locally
 
